@@ -1,7 +1,7 @@
-👋 Oi, eu sou Thiago H. Bastos
-👀 Eu estou interessado em fazer programassao
-🌱 Eu estou aprendendo programação
-💞️ Eu procuro ajudar pessoas no básico da programação
+:raised_hand: Oi, eu sou Thiago H. Bastos
+:detective: Eu estou interessado em fazer programassao
+:student: Eu estou aprendendo programação
+:handshake:  Eu procuro ajudar pessoas no básico da programação
 📫 Você pode chegar em mim pelo github mesmo
 
 <!---
